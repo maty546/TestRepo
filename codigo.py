@@ -1,5 +1,5 @@
-def main_func():
+def FUNCIONCAMBIADA():
     nombre = input("Introduzca su nombre: ")
     print(f'Buen dia, {nombre}!')
 
-main_func()
+FUNCIONCAMBIADA()
